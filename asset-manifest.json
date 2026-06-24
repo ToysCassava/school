@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.283a5cfa.css",
-    "main.js": "/static/js/main.768f27d0.js",
+    "main.js": "/static/js/main.6e47b32b.js",
     "static/js/453.3992c8da.chunk.js": "/static/js/453.3992c8da.chunk.js",
     "static/media/Aside.png": "/static/media/Aside.d3c42eebd3981827a64e.png",
     "static/media/Brebkey2.jpeg": "/static/media/Brebkey2.018ed66c7d26b671ed98.jpeg",
@@ -17,6 +17,7 @@
     "static/media/loaderdavi.gif": "/static/media/loaderdavi.b6e03f3a11254db308de.gif",
     "static/media/Davivienda-Regular.ttf": "/static/media/Davivienda-Regular.817c83e27d30055c4087.ttf",
     "static/media/Roboto-Regular.woff2": "/static/media/Roboto-Regular.a25806274237d06e00a6.woff2",
+    "static/media/botonBancolombia.png": "/static/media/botonBancolombia.69d21c981617e803e623.png",
     "static/media/OpenSans-Regular-webfont.woff2": "/static/media/OpenSans-Regular-webfont.4250bf1b7a0dce186cef.woff2",
     "static/media/logobre-b.jpg": "/static/media/logobre-b.afbf0f395045f79e3823.jpg",
     "static/media/footerY.svg": "/static/media/footerY.bdd274b670151426f188abcdb5d252e7.svg",
@@ -55,11 +56,11 @@
     "static/media/Completed.svg": "/static/media/Completed.bb992bcf6803fbaf20a5a4c7770750d2.svg",
     "static/media/loaderBC.svg": "/static/media/loaderBC.3dc97d995f8c308c7c7dfb8b7a39a078.svg",
     "main.283a5cfa.css.map": "/static/css/main.283a5cfa.css.map",
-    "main.768f27d0.js.map": "/static/js/main.768f27d0.js.map",
+    "main.6e47b32b.js.map": "/static/js/main.6e47b32b.js.map",
     "453.3992c8da.chunk.js.map": "/static/js/453.3992c8da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.283a5cfa.css",
-    "static/js/main.768f27d0.js"
+    "static/js/main.6e47b32b.js"
   ]
 }
